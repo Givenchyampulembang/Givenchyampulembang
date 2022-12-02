@@ -10,7 +10,7 @@ I'm interested in mobile development using dart and flutter languages ​​as f
 * ✉️  You can contact me at [givenchyampulembang01@gmail.com](mailto:givenchyampulembang01@gmail.com)
 * 🧠  I'm learning a dart and flutter
 * 🤝  I'm open to collaborating 
-* ⚡  work does not look, like a ghost hihi
+* ⚡  work doesn't look, like a ghost BOO...
 
 
 
