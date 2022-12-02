@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ven :D
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is ven
 ===============================================================================================================================
 
 I'm a Mobile developer
@@ -6,7 +6,7 @@ I'm a Mobile developer
 
 I'm interested in mobile development using dart and flutter languages ​​as frameworks.
 
-* 🌍  I'm based in Jayapura
+* 🌍  I'm based in Jayapura, Indonesia
 * ✉️  You can contact me at [givenchyampulembang01@gmail.com](mailto:givenchyampulembang01@gmail.com)
 * 🧠  I'm learning a dart and flutter
 * 🤝  I'm open to collaborating 
