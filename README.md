@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Call Me Venn :D
-============================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ven :D
+===============================================================================================================================
 
 I'm a Mobile developer
 --------------------------------
@@ -9,7 +9,7 @@ I'm interested in mobile development using dart and flutter languages ​​as f
 * 🌍  I'm based in Jayapura
 * ✉️  You can contact me at [givenchyampulembang01@gmail.com](mailto:givenchyampulembang01@gmail.com)
 * 🧠  I'm learning a dart and flutter
-* 🤝  I'm open to collaborating on Linkedin: https://www.linkedin.com/in/givenchy-ampulembang-270645219/
+* 🤝  I'm open to collaborating 
 * ⚡  work does not look, like a ghost hihi
 
 
