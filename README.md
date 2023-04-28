@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Mobile developer
 --------------------------------
 
-I'm interested in mobile development using dart and flutter languages ​​as frameworks.
+I'm interested in mobile development using dart languages and flutter ​​as frameworks.
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1732368/screenshots/17034874/media/ccd3685eddcc7b62452e37ce1d508bb1.gif">
 
 * 🌍  I'm based in Jayapura, Indonesia
