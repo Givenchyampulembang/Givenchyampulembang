@@ -9,7 +9,7 @@ I'm interested in mobile development using dart languages and flutter ​​as f
 
 * 🌍  I'm based in Jayapura, Indonesia
 * ✉️  You can contact me at [givenchyampulembang01@gmail.com](mailto:givenchyampulembang01@gmail.com)
-* 🧠  I'm learning a dart and flutter
+* 🧠  Everything about mobile development
 * 🤝  I'm open to collaborating 
 * ⚡  work doesn't look, like a ghost BOO...
 
