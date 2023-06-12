@@ -24,9 +24,3 @@ I'm interested in mobile development using dart languages and flutter ​​as f
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Givenchyampulembang" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/venn_a.m/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/givenchy-ampulembang-270645219/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@givenchyampulembang01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Givenchyampulembang"><img src="https://github-readme-stats.vercel.app/api?username=Givenchyampulembang&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=581c87&hide_border=true&show_icons=true" alt="Givenchyampulembang's GitHub stats" /></a>
